@@ -112,3 +112,19 @@ body {
     animation-timing-function: cubic-bezier(0, 0, 0.2, 1);
   }
 }
+
+.font-poppins {
+  font-family: 'Poppins';
+}
+
+.font-ubuntu {
+  font-family: 'Ubuntu';
+}
+
+.font-heebo {
+  font-family: 'Heebo';
+}
+
+.font-lato {
+  font-family: 'Lato';
+}
